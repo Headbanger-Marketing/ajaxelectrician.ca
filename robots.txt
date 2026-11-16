@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ajaxelectrician.ca/sitemap-index.xml
